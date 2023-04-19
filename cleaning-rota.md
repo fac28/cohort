@@ -25,17 +25,17 @@ Thanks :sparkles:
 
 ## Rota
 
-| Week | Cleaner | 
-|:----:| ------- |
-|  1   |         |
-|  2   |         |
-|  3   |         |
-|  4   |         |
-|  5   |         |  
-|  6   |         |
-|  7   |         |
-|  8   |         |
-|  9   |         |
-|  10  |         |
-|  11  |         |
-|  12  |         |
+| Week | Cleaner  | 
+|:----:| -------  |
+|  1   | Alphonso |
+|  2   | Cameo    |
+|  3   | Carl     |
+|  4   | Elisabeth|
+|  5   | Malcolm  |  
+|  6   | Mark     |
+|  7   | Simon    |
+|  8   | Taha     |
+|  9   | Thomas   |
+|  10  | Zakarie  |
+|  11  | Alphonso |
+|  12  | Elisabeth|
