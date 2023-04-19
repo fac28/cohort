@@ -15,7 +15,7 @@ Mentor 1     | Mentor 2      | Carl          | Elisabeth     |
 ## Week 3 - Authentication 
 Mon          | Tue           | Wed           | Thu           | Fri
 ------------ | --------------| ------------- | ------------- | -------------
-             | Mentor 1      | Mentor 2      | Malcolm       |  Mark 
+Bank Holiday | Mentor 1      | Mentor 2      | Malcolm       |  Mark 
 
 ## Week 4 - Server-side app
 Mon          | Tue           | Wed           | Thu           | Fri
