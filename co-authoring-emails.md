@@ -26,19 +26,13 @@ Co-authored-by: another-name <another-name@example.com>"
 
 | Name | Github email |
 | ---- | ------------ |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
-|      |              |
+| Alphonso     |              |
+| Cameo     |              |
+| Carl     |              |
+| Elisabeth     |              |
+| Malcolm     |              |
+| Mark     |              |
+| Simon     |              |
+| Taha     |              |
+| Thomas     |              |
+| Zakarie     |              |
