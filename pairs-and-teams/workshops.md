@@ -25,19 +25,19 @@
 
 | Group Number | Person 1 | Person 2 | Person 3 |
 | ------------ | -------- | -------- | -------- |
-| Group 1      |          |          |          |
-| Group 2      |          |          |          |
-| Group 3      |          |          |          |
-| Group 4      |          |          |          |
+| Group 1      | Cameo    | Simon    | Zakarie  |
+| Group 2      | Mark     | Alphonso | Malcolm  |
+| Group 3      | Thomas   | Elizabeth|          |
+| Group 4      | Carl     | Taha     |          |
 
 
 | Pair Number | Person 1 | Person 2 | 
 | ----------- | -------- | -------- |
-| Pair 1      |          |          | 
-| Pair 2      |          |          |
-| Pair 3      |          |          |
-| Pair 4      |          |          |
-| Pair 5      |          |          |
+| Pair 1      | Carl     | Elizabeth| 
+| Pair 2      | Taha         | Thomas         |
+| Pair 3      | Cameo         | Mark         |
+| Pair 4      | Malcolm         | Alphonso         |
+| Pair 5      | Simon         | Zakarie         |
 | Pair 6      |          |          |
 
 
