@@ -3,7 +3,7 @@
 | Week   | Topics          | Team 1                    | Team 2                    | Team 3                 | Team 4       | Team 5      | Team 6      |
 | ------ | --------------- | ------------------------- | --------------------------| -----------------------| ------------ | ------------| ------------|
 | 1      | Server          | Alphonso, Simon, Zakarie  | Elizabeth, Thomas, Mark   | Cameo, Carl, Taha, Malcolm |              |             |             |
-| 2      | Database        |                           |                           |                        |              |             |             |
+| 2      | Database        | Simon, Carl, Thomas       | Malcolm, Cameo, Mark       | Zakarie, Alphonso, Taha, Elizabeth|              |             |             |
 | 3      | Authentication  |                           |                           |                        |              |             |             |
 | 4      | Server-side     |                           |                           |                        |              |             |             |   
 | 5      | Client-side     |                           |                           |                        |              |             |             |
