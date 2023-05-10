@@ -28,9 +28,7 @@ Co-authored-by: another-name <another-name@example.com>"
 | ---- | ------------ |
 | Alphonso     |              |
 | Cameo     |              |
-| Carl     |              |
 | Elisabeth     |              |
-| Malcolm     |              |
 | Mark     |              |
 | Simon     |              |
 | Taha     |              |

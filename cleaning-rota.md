@@ -13,7 +13,7 @@ On days when we are in Space4, the 'cleaner' is also the cohort representative f
 - Emptying clean items from the dishwasher in the mornings
 - Emptying the kitchen waste and recycling bins if they're full (leave them next to the black bin on the street)
 - Replacing the kitchen towel (fresh ones should be under the sink)
-- Reminding people to wash their cups/dishes 
+- Reminding people to wash their cups/dishes
 - Watering the plants
 - Make sure the room isn't cluttered/messy
 
@@ -25,17 +25,17 @@ Thanks :sparkles:
 
 ## Rota
 
-| Week | Cleaner  | 
-|:----:| -------  |
-|  1   | Alphonso |
-|  2   | Cameo    |
-|  3   | Carl     |
-|  4   | Elisabeth|
-|  5   | Malcolm  |  
-|  6   | Mark     |
-|  7   | Simon    |
-|  8   | Taha     |
-|  9   | Thomas   |
-|  10  | Zakarie  |
-|  11  | Alphonso |
-|  12  | Elisabeth|
+| Week | Cleaner   |
+| :--: | --------- |
+|  1   | Alphonso  |
+|  2   | Cameo     |
+|  3   | Elisabeth |
+|  4   | Mark      |
+|  5   | Simon     |
+|  6   | Taha      |
+|  7   | Thomas    |
+|  8   | Zakarie   |
+|  9   | Alphonso  |
+|  10  | Cameo     |
+|  11  | Elisabeth |
+|  12  | Mark      |

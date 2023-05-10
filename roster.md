@@ -9,7 +9,5 @@
 |  he/him    |  Mark Hanley           | hanleymark              |                                   |
 |  he/him    |  Simon Ryrie           | simonryrie              | Soon                              |
 |  he/him    |  Taha Hassan           | Taha-Hassan-Git         | tldraw                            |
-|  he/him    |  Carl Cross            | carlthedev              |                                   |
 |  he/him    |  Thomas Freeman        | FomasTreeman            |                                   |
-|  he/him    |  Malcolm Wilson        | malcolmwilson8          |                                   |
 
