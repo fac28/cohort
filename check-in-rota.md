@@ -10,33 +10,33 @@ Mentor 1     | Mentor 2      | Alphonso      | Cameo         |
 
 Mon          | Tue           | Wed           | Thu           | Fri
 ------------ | --------------| ------------- | ------------- | -------------
-Mentor 1     | Mentor 2      | Carl          | Elisabeth     | 
+Mentor 1     | Mentor 2      | Elisabeth     | Mark          | 
 
 ## Week 3 - Authentication 
 Mon          | Tue           | Wed           | Thu           | Fri
 ------------ | --------------| ------------- | ------------- | -------------
-Bank Holiday | Mentor 1      | Mentor 2      | Malcolm       |  Mark 
+Bank Holiday | Mentor 1      | Mentor 2      | Simon         | Taha 
 
 ## Week 4 - Server-side app
 Mon          | Tue           | Wed           | Thu           | Fri
 ------------ | --------------| ------------- | ------------- | -------------
-Mentor 1     | Mentor 2      | Simon         | Taha          | 
+Mentor 1     | Mentor 2      | Thomas        | Zakarie          | 
 
 ## Week 5 - Client-side app
 Mon          | Tue           | Wed           | Thu           | Fri
 ------------ | --------------| ------------- | ------------- | -------------
-Mentor 1     | Mentor 2      | Thomas        | Zakarie       |  
+Mentor 1     | Mentor 2      | Alphonso        | Cameo       |  
 
 
 ## Week 6 - Full-stack app
 Mon          | Tue           | Wed           | Thu           | Fri
 ------------ | --------------| ------------- | ------------- | -------------
-Mentor 1     | Mentor 2      | Alphonso      |  Cameo        |  
+Mentor 1     | Mentor 2      | Mark          |  Thomas       |  
 
 ## Week 7 - Group Project
 Mon          | Tue           | Wed           | Thu           | Fri
 ------------ | --------------| ------------- | ------------- | -------------
-Carl         | Elisabeth     | Malcolm       | Mark          | 
+Carl         | Elisabeth     | Zakarie       | Elisabeth     | 
 
 ## Week 8 - Group Build 1
 Mon          | Tue           | Wed           | Thu           | Fri
