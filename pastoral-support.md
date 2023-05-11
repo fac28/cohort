@@ -14,15 +14,22 @@ Mentors will ask questions, listen carefully, and document what students share. 
 
 | Week                     | Day            | Time  | Learner          |
 | -------------------------| -------------- | ----- | ---------------- |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
+| 3 - Authentication week  | Thursday       | 12:30 | Natalia          |
+| 3 - Authentication week  | Thursday       | 14:30 | Dom              |
+| 4 - Server-side app week | Wednesday      | 10:30 | Georgia          |
+| 4 - Server-side app week | Wednesday      | 14:30 | Iman             |
+| 5 - Client-side app week | Wednesday      | 11:00 | Laura            |
+| 5 - Client-side app week | Wednesday      | 11:30 | Laura            |
+| 6 - Full-stack  app week | Wednesday      | 10:15 | Karol            |
+| 6 - Full-stack  app week | Wednesday      | 12:30 | Gal              |
+| 8 - In-house build week 1| Monday         | 11:30 | Iman             |
+| 8 - In-house build week 1| Monday         | 12:00 | Georgia          |
+| 8 - In-house build week 1| Monday         | 12:30 | Dom xx           |
+| 8 - In-house build week 1| Monday         | 16:00 | Konstantina         |
+| 8 - In-house build week 1| Monday         | 16:30 | Natalia  xx         |
+| 9 - In-house build week 2| Monday         | 11:00 | Laura               |
+| 9 - In-house build week 2| Monday         | 11:30 | Niete               |
+| 9 - In-house build week 2| Monday         | 12:00 | Karol               |
+| 9 - In-house build week 2| Monday         | 12:30 | Gal                 |
+| 9 - In-house build week 2| Monday         | 16:00 | Dom                 |
+| 9 - In-house build week 2| Monday         | 16:30 | Natalia             |
