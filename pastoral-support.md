@@ -12,17 +12,21 @@ Mentors will ask questions, listen carefully, and document what students share. 
 
 ## Cohort schedule
 
-| Week                     | Day            | Time  | Learner          |
-| -------------------------| -------------- | ----- | ---------------- |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
-|                          |                |       |                  |
+| Week                      | Day       | Time  | Learner   |
+| ------------------------- | --------- | ----- | --------- |
+| 3 - Authentication week   | Thursday  | 12:30 | Zakarie   |
+| 3 - Authentication week   | Thursday  | 14:30 | Alphonso  |
+| 4 - Server-side app week  | Wednesday | 10:30 | Elisabeth |
+| 4 - Server-side app week  | Wednesday | 14:30 | Mark      |
+| 5 - Client-side app week  | Wednesday | 11:00 | Thomas    |
+| 5 - Client-side app week  | Wednesday | 11:30 | Taha      |
+| 6 - Full-stack app week   | Wednesday | 10:15 | Simon     |
+| 6 - Full-stack app week   | Wednesday | 12:30 | Cameo     |
+| 8 - In-house build week 1 | Monday    | 11:30 | Mark      |
+| 8 - In-house build week 1 | Monday    | 12:00 | Elisabeth |
+| 8 - In-house build week 1 | Monday    | 12:30 | Alphonso  |
+| 8 - In-house build week 1 | Monday    | 16:00 | Taha      |
+| 9 - In-house build week 2 | Monday    | 12:00 | Zakarie   |
+| 9 - In-house build week 2 | Monday    | 12:30 | Thomas    |
+| 9 - In-house build week 2 | Monday    | 16:00 | Cameo     |
+| 9 - In-house build week 2 | Monday    | 16:30 | Simon     |
