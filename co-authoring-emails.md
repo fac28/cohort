@@ -29,7 +29,7 @@ Co-authored-by: another-name <another-name@example.com>"
 | Alphonso     |              |
 | Cameo     |              |
 | Elisabeth     |              |
-| Mark     |              |
+| Mark     |home@markhanley.co.uk|
 | Simon     |              |
 | Taha     |              |
 | Thomas     |              |
