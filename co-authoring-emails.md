@@ -32,5 +32,5 @@ Co-authored-by: another-name <another-name@example.com>"
 | Mark     |home@markhanley.co.uk|
 | Simon     |              |
 | Taha     |              |
-| Thomas     |              |
-| Zakarie     |              |
+| Thomas     |tom@team-freeman.com|
+| Zakarie     |zakariaali350@gmail.com|
