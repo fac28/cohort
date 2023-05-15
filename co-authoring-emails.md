@@ -31,6 +31,6 @@ Co-authored-by: another-name <another-name@example.com>"
 | Elisabeth     |              |
 | Mark     |home@markhanley.co.uk|
 | Simon     |              |
-| Taha     |              |
+| Taha     | 98838967+Taha-Hassan-Git@users.noreply.github.com |
 | Thomas     |tom@team-freeman.com|
 | Zakarie     |23071495+zakkariyaa@users.noreply.github.com|
