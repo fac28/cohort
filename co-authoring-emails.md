@@ -33,4 +33,4 @@ Co-authored-by: another-name <another-name@example.com>"
 | Simon     |              |
 | Taha     |              |
 | Thomas     |tom@team-freeman.com|
-| Zakarie     |zakariaali350@gmail.com|
+| Zakarie     |23071495+zakkariyaa@users.noreply.github.com|
