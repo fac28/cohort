@@ -30,7 +30,7 @@ Co-authored-by: another-name <another-name@example.com>"
 | Cameo     | cjchoquer@gmail.com|
 | Elisabeth     |              |
 | Mark     |home@markhanley.co.uk|
-| Simon     |              |
+| Simon     |112886847+simonryrie@users.noreply.github.com|
 | Taha     | 98838967+Taha-Hassan-Git@users.noreply.github.com |
 | Thomas     |tom@team-freeman.com|
 | Zakarie     |23071495+zakkariyaa@users.noreply.github.com|
