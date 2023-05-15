@@ -26,7 +26,7 @@ Co-authored-by: another-name <another-name@example.com>"
 
 | Name | Github email |
 | ---- | ------------ |
-| Alphonso     |              |
+| Alphonso     |  114600712+camelPhonso@users.noreply.github.com            |
 | Cameo     | cjchoquer@gmail.com|
 | Elisabeth     |              |
 | Mark     |home@markhanley.co.uk|
