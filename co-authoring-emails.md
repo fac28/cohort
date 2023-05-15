@@ -26,9 +26,9 @@ Co-authored-by: another-name <another-name@example.com>"
 
 | Name | Github email |
 | ---- | ------------ |
-| Alphonso     |  114600712+camelPhonso@users.noreply.github.com            |
-| Cameo     | cjchoquer@gmail.com|
-| Elisabeth     |              |
+| Alphonso     |  114600712+camelPhonso@users.noreply.github.com|
+| Cameo     | 62698495+cameochoquer@users.noreply.github.com|
+| Elisabeth     |114364165+eliazzo@users.noreply.github.com|
 | Mark     |home@markhanley.co.uk|
 | Simon     |112886847+simonryrie@users.noreply.github.com|
 | Taha     | 98838967+Taha-Hassan-Git@users.noreply.github.com |
