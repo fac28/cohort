@@ -16,4 +16,6 @@ Feel free to add to the list of potential check-in (or check-out) questions:
 
 # Check-in questions already asked
 
-- 
+- If you were stuck on a desert island and could only take ONE book and ONE movie, what would they be? (Dom)
+- What’s been one of your favourite or most absolutely detestable (or both) museum/gallery/exhibition experiences? 🏛️ 🖼️ 🏷️ (Georgia)
+- What is your favourite superstition | urban legend | mythical creature ? (Aplhonso)
