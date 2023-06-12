@@ -8,5 +8,5 @@
 | 4     | Server-side      | Mark, Taha, Elisabeth, Thomas     | Simon, Cameo, Alphonso, Zakarie    |                  |                  |
 | 5     | Client-side      | Mark, Zakarie                     | Cameo, Thomas                      | Simon, Elizabeth | Taha, Alphonso   |
 | 6     | Full-stack       | Simon, Alphonso, Thomas, Mark     | Cameo, Taha, Elizabeth, Zakarie    |                  |                  |
-| 7-9   | In-house Project |                                   |                                    |                  |                  |
+| 7-9   | In-house Project | Cameo, Mark, Zakarie, Thomas      | Elizabeth, Taha, Simon, Alphonso   |                  |                  |
 | 10-12 | TfB Project      |                                   |                                    |                  |                  |
