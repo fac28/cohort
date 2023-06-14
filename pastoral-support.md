@@ -16,11 +16,11 @@ Mentors will ask questions, listen carefully, and document what students share. 
 | ------------------------- | --------- | ----- | --------- |
 | 3 - Authentication week   | Thursday  | 12:30 | Zakarie   |
 | 3 - Authentication week   | Thursday  | 14:30 | Elisabeth |
-| 5 - Client-side app week  | Wednesday | 10:30 | Alphonso  |
-| 5 - Client-side app week  | Wednesday | 11:00 | Mark      |
+| 5 - Client-side app week  | Wednesday | 12:00 | Alphonso  |
+| 5 - Client-side app week  | Wednesday | 12:30 | Simon      |
 | 5 - Client-side app week  | Wednesday | 14:00 | Thomas    |
 | 5 - Client-side app week  | Wednesday | 14:30 | Taha      |
-| 6 - Full-stack app week   | Wednesday | 10:15 | Simon     |
+| 6 - Full-stack app week   | Wednesday | 10:15 | Mark     |
 | 6 - Full-stack app week   | Wednesday | 12:30 | Cameo     |
 | 8 - In-house build week 1 | Monday    | 11:30 | Mark      |
 | 8 - In-house build week 1 | Monday    | 12:00 | Elisabeth |
