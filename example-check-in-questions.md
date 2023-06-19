@@ -32,3 +32,8 @@ Feel free to add to the list of potential check-in (or check-out) questions:
 - What is the worst meal choice or home made recipe decision you've ever made? (Gal)
 - What is/are the most important thing/s to you in your life? (Thomas)
 - What is something from your childhood that you regret/feel guilty about? (Zack)
+- If you could go back to any moment or period in time, when would it be and why? (Neville)
+- What would be your ideal way to spend a long weekend? (Neville)
+- What is a toxic personality trait(s) of yours? What is something most people hate, but you love?(Alphonso) 
+- Who would you want to play you in a movie? Who would * actually * play you in a movie? (Cameo)
+- If you could instantly become an expert in any field, which one would you choose? (Ivan)
