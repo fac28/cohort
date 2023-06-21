@@ -20,8 +20,8 @@ Mentors will ask questions, listen carefully, and document what students share. 
 | 5 - Client-side app week  | Wednesday | 12:30 | Simon      |
 | 5 - Client-side app week  | Wednesday | 14:00 | Thomas    |
 | 5 - Client-side app week  | Wednesday | 14:30 | Taha      |
-| 6 - Full-stack app week   | Wednesday | 10:15 | Mark     |
-| 6 - Full-stack app week   | Wednesday | 12:30 | Cameo     |
+| 6 - Full-stack app week   | Wednesday | 11:00 | Mark     |
+| 6 - Full-stack app week   | Wednesday | 11:30 | Cameo     |
 | 8 - In-house build week 1 | Monday    | 11:30 | Mark      |
 | 8 - In-house build week 1 | Monday    | 12:00 | Elisabeth |
 | 8 - In-house build week 1 | Monday    | 12:30 | Alphonso  |
