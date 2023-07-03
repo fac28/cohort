@@ -43,3 +43,4 @@ Feel free to add to the list of potential check-in (or check-out) questions:
 - If you could go on an all-expenses-paid world tour, what 3 countries would you visit and why? (Simon)
 - What is something that not many people know about you? What meal do you have as comfort food? (Taha)
 - What nugget of information would you pass down to the next generation? (Thomas)
+- Is there a song that always puts you in a good mood? Which one is it and why? (Zak)
