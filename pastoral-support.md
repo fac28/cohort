@@ -24,8 +24,8 @@ Mentors will ask questions, listen carefully, and document what students share. 
 | 6 - Full-stack app week   | Wednesday | 11:30 | Cameo     |
 | 9 - In-house build week 2 | Monday    | 11:30 | Thomas      |
 | 9 - In-house build week 2 | Monday    | 12:00 | Elisabeth |
-| 9 - In-house build week 2 | Monday    | 12:30 | Cameo  |
 | 9 - In-house build week 2 | Monday    | 16:00 | Taha      |
+| 9 - In-house build week 2 | Monday    | 16:30 | Cameo  |
 | 9 - In-house build week 2 | Wednesday | 12:00 | Zakarie   |
 | 9 - In-house build week 2 | Wednesday | 12:30 | Mark    |
 | 9 - In-house build week 2 | Wednesday | 16:00 | Alphonso     |
