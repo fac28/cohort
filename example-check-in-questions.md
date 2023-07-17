@@ -48,4 +48,7 @@ Feel free to add to the list of potential check-in (or check-out) questions:
 - What is one thing that you indulge on? (Ie. probably overspend or pay above and beyond to get the ‘best’ of) (Cameo)
 - If you were giving someone a tour of London for their first EVER visit (second visit is unscheduled and might possibly never happen), what 3(ish) places would you take them to? (Elisabeth)
 - If you could try anything without any consequences, what would you try? (Mark)
-- 
+- Tell us one thing about you that no one in the cohort knows (Simon)
+- What's a weird thing that happened to you while on holiday/travelling? (Taha)
+- If you could have any animal as a pet, regardless of practicality or legality, which animal would you choose and what would you name it? (Zak)
+- What's a silly/nonsense habit or ritual you keep with a friend/partner/family member?" (could be a game you play, joke you repeat, nice gestures or vicious spirals of revenge - whatever you want) (Alphonso)
