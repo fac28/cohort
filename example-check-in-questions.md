@@ -52,3 +52,4 @@ Feel free to add to the list of potential check-in (or check-out) questions:
 - What's a weird thing that happened to you while on holiday/travelling? (Taha)
 - If you could have any animal as a pet, regardless of practicality or legality, which animal would you choose and what would you name it? (Zak)
 - What's a silly/nonsense habit or ritual you keep with a friend/partner/family member?" (could be a game you play, joke you repeat, nice gestures or vicious spirals of revenge - whatever you want) (Alphonso)
+- What is a conspiracy theory you truly believe in? Nb. UFOs don’t count (Cameo)
