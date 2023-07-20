@@ -54,3 +54,4 @@ Feel free to add to the list of potential check-in (or check-out) questions:
 - What's a silly/nonsense habit or ritual you keep with a friend/partner/family member?" (could be a game you play, joke you repeat, nice gestures or vicious spirals of revenge - whatever you want) (Alphonso)
 - What is a conspiracy theory you truly believe in? Nb. UFOs don’t count (Cameo)
 - What are your 3 most used/ favourite emojis? (Elisabeth)
+- If you could magic out of existence one everyday thing from the world, what would it be and why? (Mark)
