@@ -55,3 +55,10 @@ Feel free to add to the list of potential check-in (or check-out) questions:
 - What is a conspiracy theory you truly believe in? Nb. UFOs don’t count (Cameo)
 - What are your 3 most used/ favourite emojis? (Elisabeth)
 - If you could magic out of existence one everyday thing from the world, what would it be and why? (Mark)
+- Tell us about 3 songs which relate to a phase in your life and explain their significance. (Simon)
+- Show us an object and tell us a short and non-traumatic story about it. (Taha)
+- What is your 3 go to music artists or songs to help you relax? (Thomas)
+- Tell us a favourite saying or a phrase of wisdom you abide by (Zak)
+- 
+
+
