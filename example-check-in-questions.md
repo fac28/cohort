@@ -63,6 +63,7 @@ Feel free to add to the list of potential check-in (or check-out) questions:
 - The world is now a bleak dystopia - there is no individuality or advertising - everything has the same label, only beige persists. There are NO branded goods in the world. No marmite. No ketchup. No converse. No adidas tracksuits. No yorkshire tea...But you're allowed to keep one thing around...
 What is the one branded good that you would never give up? (Cameo)
 - What has been your highlight and lowlight of your past 12 weeks at FAC? (Beth)
-- 1. What would be your ideal future tech role (N.B. I didn't say 'job' @Alphonso )? 2. We've all got so much from the last 6 months at FAC, how do you plan to pay it forward? (Mark)
+- What would be your ideal future tech role (N.B. I didn't say 'job' @Alphonso )? 2. We've all got so much from the last 6 months at FAC, how do you plan to pay it forward? (Mark)
+- Bonus: Cameo brought in Kinder Eggs, using the toy inside talk about how it relates to your experience for the previous 12 weeks
 
 
