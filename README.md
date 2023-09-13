@@ -1,11 +1,11 @@
-# FAC27
+# FAC28
 
-A repository for resources central to Founders and Coders' cohort number ```27```
+🌱 A repository for resources central to Founders and Coders' cohort number ```28```
 
 #### Course
 
 - [Coursebook](https://learn.foundersandcoders.com/course/introduction/)
-- [FAC27 GitHub organisation](https://github.com/fac27)
+- [FAC28 GitHub organisation](https://github.com/fac-28)
 - [Workshop groups](pairs-and-teams/workshops.md)
 - [Project teams](pairs-and-teams/projects.md)
 - [Co-authoring commits](co-authoring-emails.md)
@@ -31,4 +31,4 @@ A repository for resources central to Founders and Coders' cohort number ```27``
 #### For reference
 
 - [Code of Conduct](https://www.foundersandcoders.com/code-of-conduct)
-- [FAC27 Cohort members](roster.md)
+- [FAC28 Cohort members](roster.md)
