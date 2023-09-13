@@ -16,7 +16,7 @@
 
 | Mon          | Tue      | Wed      | Thu   | Fri  |
 | ------------ | -------- | -------- | ----- | ---- |
-| Mentor 3     | Yuqing   | Shaugn   | Deepa | 
+| Mentor 3     | Yuqing   | Shaughn   | Deepa | 
 
 ## Week 4 - Server-side app
 
@@ -40,7 +40,7 @@
 
 | Mon    | Tue    | Wed    | Thu     | Fri |
 | ------ | ------ | ------ | ------- | --- |
-| Yuqing | Shaugn | Deepa  | Tommaso |     
+| Yuqing | Shaughn | Deepa  | Tommaso |     
 
 ## Week 8 - Group Build 1
 
@@ -58,7 +58,7 @@
 
 | Mon     | Tue    | Wed   | Thu     | Fri |
 | ------- | -----  | ----- | ------- | --- |
-| Yuqing  | Shaugn | Deepa | Tommaso |     |
+| Yuqing  | Shaughn | Deepa | Tommaso |     |
 
 ## Week 11 - TFB Build 1
 

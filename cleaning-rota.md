@@ -27,15 +27,15 @@ Thanks :sparkles:
 
 | Week | Cleaner   |
 | :--: | --------- |
-|  1   | Alphonso  |
-|  2   | Cameo     |
-|  3   | Elisabeth |
-|  4   | Mark      |
-|  5   | Simon     |
-|  6   | Taha      |
-|  7   | Thomas    |
-|  8   | Zakarie   |
-|  9   | Alphonso  |
-|  10  | Cameo     |
-|  11  | Elisabeth |
-|  12  | Mark      |
+|  1   | Nich      |
+|  2   | Dylan     |
+|  3   | George    |
+|  4   | Izzy      |
+|  5   | James     |
+|  6   | Laurie    |
+|  7   | Elena     |
+|  8   | Yuqing    |
+|  9   | Shaughn   |
+|  10  | Deepa     |
+|  11  | Tommaso   |
+|  12  | TESS      |
