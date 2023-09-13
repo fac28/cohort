@@ -5,7 +5,7 @@
 #### Course
 
 - [Coursebook](https://learn.foundersandcoders.com/course/introduction/)
-- [FAC28 GitHub organisation](https://github.com/fac-28)
+- [FAC28 GitHub organisation](https://github.com/fac28)
 - [Workshop groups](pairs-and-teams/workshops.md)
 - [Project teams](pairs-and-teams/projects.md)
 - [Co-authoring commits](co-authoring-emails.md)
