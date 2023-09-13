@@ -12,21 +12,17 @@ Mentors will ask questions, listen carefully, and document what students share. 
 
 ## Cohort schedule
 
-| Week                      | Day       | Time  | Learner   |
+| Week                      | Day       | Time  | Learner   | 
 | ------------------------- | --------- | ----- | --------- |
-| 3 - Authentication week   | Thursday  | 12:30 | Zakarie   |
-| 3 - Authentication week   | Thursday  | 14:30 | Elisabeth |
-| 5 - Client-side app week  | Wednesday | 12:00 | Alphonso  |
-| 5 - Client-side app week  | Wednesday | 12:30 | Simon      |
-| 5 - Client-side app week  | Wednesday | 14:00 | Thomas    |
-| 5 - Client-side app week  | Wednesday | 14:30 | Taha      |
-| 6 - Full-stack app week   | Wednesday | 11:00 | Mark     |
-| 6 - Full-stack app week   | Wednesday | 11:30 | Cameo     |
-| 9 - In-house build week 2 | Monday    | 11:30 | Thomas      |
-| 9 - In-house build week 2 | Monday    | 12:00 | Elisabeth |
-| 9 - In-house build week 2 | Monday    | 16:00 | Taha      |
-| 9 - In-house build week 2 | Monday    | 16:30 | Cameo  |
-| 9 - In-house build week 2 | Wednesday | 12:00 | Zakarie   |
-| 9 - In-house build week 2 | Wednesday | 12:30 | Mark    |
-| 9 - In-house build week 2 | Wednesday | 16:00 | Alphonso     |
-| 9 - In-house build week 2 | Wednesday   | 16:30 | Simon     |
+| 4 - Server-side app       | Wednesday | 12:30 | Nich      |
+| 4 - Server-side app week  | Wednesday | 14:30 | Dylan     |
+| 5 - Client-side app week  | Wednesday | 12:00 | George    |
+| 5 - Client-side app week  | Wednesday | 12:30 | Isobel    |
+| 6 - Full-stack app week   | Wednesday | 14:00 | James     |
+| 6 - Full-stack app week   | Wednesday | 14:30 | Laurie    |
+| 7 - Design Sprint app week| Wednesday | 11:00 | Elena     |
+| 7 - Design Sprint week    | Wednesday | 11:30 | Yuqing    |
+| 8 - Build Sprint 1 week 2 | Wednesday | 11:30 | Shaughn   |
+| 8 - Build Sprint 1 week 2 | Wednesday | 12:00 | Deepa     |
+| 9 - Build Sprint 2 week 2 | Wednesday | 16:00 | Tommaso   |
+| 9 - Build Sprint 2 week 2 | Wednesday | 16:30 | Tess      |
