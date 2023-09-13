@@ -1,12 +1,12 @@
 # Project Teams
 
-| Week  | Topics           | Team 1                            | Team 2                             | Team 3           | Team 4           |
-| ----- | ---------------- | --------------------------------- | ---------------------------------- | ---------------- | ---------------- |
-| 1     | Server           | Simon, Alphonso, Taha, Elisabeth  | Cameo, Thomas, Zakarie, Mark       |                  |                  |
-| 2     | Database         | Mark, Zakarie, Cameo, Taha        | Elisabeth, Alphonso, Thomas, Simon |                  |                  |
-| 3     | Authentication   | Simon, Thomas, Zakarie, Alphonso  | Mark, Cameo, Taha, Elisabeth       |                  |                  |
-| 4     | Server-side      | Mark, Taha, Elisabeth, Thomas     | Simon, Cameo, Alphonso, Zakarie    |                  |                  |
-| 5     | Client-side      | Mark, Zakarie                     | Cameo, Thomas                      | Simon, Elisabeth | Taha, Alphonso   |
-| 6     | Full-stack       | Simon, Alphonso, Thomas, Mark     | Cameo, Taha, Elisabeth, Zakarie    |                  |                  |
-| 7-9   | In-house Project | Cameo, Mark, Zakarie, Thomas      | Elisabeth, Taha, Simon, Alphonso   |                  |                  |
-| 10-12 | TfB Project      | Cameo, Mark, Alphonso, Thomas     | Elisabeth, Taha, Simon, Zakarie    |                  |                  |
+| Week  | Topics           | Team 1                          | Team 2                        | Team 3                        | Team 4           | Team 5
+| ----- | ---------------- | ------------------------------- | ------------------------------| ----------------------------- | ---------------- | ----------------
+| 1     | Server           | Elena, Dylan, George, Izzy      | James, Laurie, Nich, Yuqing   | Shaughn, Deepa, Tommaso, Tess |                  |
+| 2     | Database         | James, Tommaso, Tess, Izzy      | George, Laurie, Elena, Nich   | Dylan, Yuqing, Shaughn, Deepa |                  |
+| 3     | Authentication   | Elena, Laurie, Nich, George     | Dylan, Deepa, Tommaso, Yuqing | James, Shaughn, Tess, Izzy    |                  |
+| 4     | Server-side      | Dylan, Shaughn, Tess, George    | Elena, Tommaso, Yuqing, Izzy  | James, Laurie, Nich, Deepa    |                  |
+| 5     | Client-side      | Izzy, Tommaso                   | Laurie, Nich                  | Elena, Tess                   | Dylan, George    | Shaughn, Yuqing
+| 6     | Full-stack       | James, Shaughn, Deepa, Izzy     | Elena, Tess, Tommaso, Laurie  | Dylan, George, Yuqing, Nich   |                  |
+| 7-9   | In-house Project | Dylan, George, Tommaso, Deepa   | Elena, Yuqing, Shaughn, Tess  | James, Laurie, Nich, Izzy     |                  |
+| 10-12 | TfB Project      | Elena, Tommaso, Yuqing, Shaughn | James, Tess, Dylan, George    | Izzy, Laurie, Nich, Deepa     |                  |
