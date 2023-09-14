@@ -3,8 +3,8 @@
 |  Week 1 |  Evgeny |         |
 |  Week 2 |  Ivan   |         |
 |  Week 3 |         |         |
-|  Week 4 |         |         |
-|  Week 5 |         |         |
+|  Week 4 | Taha    |         |
+|  Week 5 | Anni    |         |
 |  Week 6 |         |         |
 |  Week 7 |         |         |
 |  Week 8 |         |         |
