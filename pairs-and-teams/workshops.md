@@ -54,7 +54,7 @@
 | Challenge   | Pairs  
 | ----------- | --------------
 | Pair 1      | Laurie & Nich
-| Pair 2      | Yuqing & Shaughn
+| Pair 2      | Dylan & Shaughn
 | Pair 3      | Elena & Tommaso
 | Pair 4      | George & Deepa
 | Pair 5      | James & Tess      
