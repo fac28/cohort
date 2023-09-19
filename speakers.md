@@ -5,7 +5,7 @@
 |  Week 3 |         |                                          |         | 
 |  Week 4 | Taha    |                                          |         |
 |  Week 5 | Anni    |                                          |         |
-|  Week 6 |         |                                          |         |
+|  Week 6 | Tony    | TypeScript                               |         |
 |  Week 7 |         |                                          |         |
 |  Week 8 | Sonia   | Web Accessibility                        |         |
 |  Week 9 |         |                                          |         |
