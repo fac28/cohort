@@ -4,7 +4,7 @@
 
 | Mon      | Tue      | Wed      | Thu   | Fri |
 | -------- | -------- | -------- | ----- | --- |
-| Mentor 1 | Dylan     | George  | Izzy  |
+| Mentor 1 | Dylan     | Izzy  | George  |
 
 ## Week 2 - Database
 
