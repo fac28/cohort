@@ -1,14 +1,14 @@
-|   Week  | Speaker |  Topic                                   | Slides  |
-|---------|---------|------------------------------------------|---------|
-|  Week 1 |  Evgeny | Your first few months as a Web Developer | [linked here](https://www.canva.com/design/DAE28XUuJIY/pd8PovYjv-M9vbsyENKwYg/view?utm_content=DAE28XUuJIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)        |
-|  Week 2 |  Ivan   | Learning to learn                        | [linked here](https://learning-how-to-learn.vercel.app/#0)        |
-|  Week 3 |         |                                          |         | 
-|  Week 4 | Taha    |                                          |         |
-|  Week 5 | Anni    |                                          |         |
-|  Week 6 | Tony    | TypeScript                               |         |
-|  Week 7 |         |                                          |         |
-|  Week 8 | Sonia   | Web Accessibility                        |         |
-|  Week 9 |         |                                          |         |
-| WeeK 10 |         |                                          |         |
-| Week 11 |         |                                          |         |
-| Week 12 |         |                                          |         |
+|      |   Week  | Speaker |  Topic                                   | Slides  |
+|      |---------|---------|------------------------------------------|---------|
+| 21/9 |  Week 1 |  Evgeny | Your first few months as a Web Developer | [linked here](https://www.canva.com/design/DAE28XUuJIY/pd8PovYjv-M9vbsyENKwYg/view?utm_content=DAE28XUuJIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)        |
+| 28/9 |  Week 2 |  Ivan   | Learning to learn                        | [linked here](https://learning-how-to-learn.vercel.app/#0)        |
+| 5/10 |  Week 3 |         |                                          |         | 
+|12/10 |  Week 4 | Taha    |                                          |         |
+|19/10 |  Week 5 | Anni    |                                          |         |
+|26/10 |  Week 6 | Tony    | TypeScript                               |         |
+| 2/11 |  Week 7 |         |                                          |         |
+| 9/11 |  Week 8 | Sonia   | Web Accessibility                        |         |
+| 16/11|  Week 9 |         |                                          |         |
+| 23/11| Week 10 |         |                                          |         |
+| 30/11| Week 11 |         |                                          |         |
+|    | Week 12 |         |                                          |         |
