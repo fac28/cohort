@@ -1,5 +1,5 @@
-|      |   Week  | Speaker |  Topic                                   | Slides  |
-|      |---------|---------|------------------------------------------|---------|
+| Date |   Week  | Speaker |  Topic                                   | Slides  |
+|------|---------|---------|------------------------------------------|---------|
 | 21/9 |  Week 1 |  Evgeny | Your first few months as a Web Developer | [linked here](https://www.canva.com/design/DAE28XUuJIY/pd8PovYjv-M9vbsyENKwYg/view?utm_content=DAE28XUuJIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)        |
 | 28/9 |  Week 2 |  Ivan   | Learning to learn                        | [linked here](https://learning-how-to-learn.vercel.app/#0)        |
 | 5/10 |  Week 3 |         |                                          |         | 
