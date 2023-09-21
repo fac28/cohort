@@ -19,6 +19,7 @@
 
 - [Mentors](mentors.md)
 - [Pastoral support](pastoral-support.md)
+- [Notes from Live Code Review sessions](live-code-reviews.md)
 
 #### Cohort Expectations
 
