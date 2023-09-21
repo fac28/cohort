@@ -4,37 +4,37 @@
 
 | Mon      | Tue      | Wed      | Thu   | Fri |
 | -------- | -------- | -------- | ----- | --- |
-| Mentor 1 | Dylan     | Izzy  | George  |
+| Mark     | Dylan     | Izzy  | George  |
 
 ## Week 2 - Database
 
 | Mon      | Tue      | Wed       | Thu  | Fri |
 | -------- | -------- | --------  | ---- | --- |
-| Mentor 2 | James    | Laurie    | Nich |
+| Zak      | James    | Laurie    | Nich |
 
 ## Week 3 - Authentication
 
 | Mon          | Tue      | Wed      | Thu   | Fri  |
 | ------------ | -------- | -------- | ----- | ---- |
-| Mentor 3     | Yuqing   | Shaughn   | Deepa | 
+| Cam          | Yuqing   | Shaughn   | Deepa | 
 
 ## Week 4 - Server-side app
 
 | Mon      | Tue      | Wed    | Thu     | Fri |
 | -------- | -------- | ------ | ------- | --- |
-| Mentor 4 | Tommaso  | Tess   | Elena   |     
+| Tom      | Tommaso  | Tess   | Elena   |     
 
 ## Week 5 - Client-side app
 
 | Mon      | Tue      | Wed      | Thu   | Fri |
 | -------- | -------- | -------- | ----- | --- |
-| Mentor 5 | Dylan    | George   | Izzy  |     
+| Simon    | Dylan    | George   | Izzy  |     
 
 ## Week 6 - Full-stack app
 
 | Mon      | Tue      | Wed       | Thu  | Fri |
 | -------- | -------- | --------- | ---- | --- |
-| Mentor 6 | James    | Laurie    | Nich |     
+| Taha     | James    | Laurie    | Nich |     
 
 ## Week 7 - Group Project
 
