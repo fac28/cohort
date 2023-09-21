@@ -1,0 +1,24 @@
+## week 1 - Server
+- general
+  - show them how to use eslint and prettier
+    - make sure comments do not end up on master or console logs don't end up on master
+    - did everyone manage to deploy, I could go through this
+    - show them how to use nodemon
+- SummerButterfly
+  - you don't have any instructions for running your project
+  - or how to run the tests
+  - comments shouldn't be left in production files
+  - show them how to use backtick syntax highlighting
+  - could have better naming for this template
+  - https://github.com/fac28/SummerButterfly/blob/49c45a54e045e418614c7900cec4f6a36a11028a/templates.js#L52
+- HahaHub
+  - you use == everywhere, you should always use ===
+    - you left a console.log in somewhere
+    - we're not to be using frameworks or libraries at this stage of the course
+    - in the server, you wouldn't name a folder scripts
+    - you don't need to equality check against empty string here, you can just do if(!name)
+      - https://github.com/fac28/HahaHub/blob/e90e5a9f461172897cc56b08471ad3ffbf07dcfd/scripts/server.js#L47
+    - upRoute and downRoute not being used, should be removed to another branch
+- week1-microblogging-fac28
+  - here you could do an early return
+    - https://github.com/cazanelena/week1-microblogging-fac28/blob/0c66d71187985127f078b6bfdba820e38c7ac5c5/src/server.js#L34-L41
