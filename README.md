@@ -28,6 +28,9 @@
 
 - [Speakers and slides](speakers.md)
 
+#### Tech For Better
+- [Product Owners and Pitches](tfb-product-owners.md)
+
 #### For reference
 
 - [Code of Conduct](https://www.foundersandcoders.com/code-of-conduct)
