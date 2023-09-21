@@ -9,6 +9,6 @@
 | 2/11 |  Week 7 |         |                                          |         |
 | 9/11 |  Week 8 | Sonia   | Web Accessibility                        |         |
 | 16/11|  Week 9 |         |                                          |         |
-| 23/11| Week 10 |         |                                          |         |
+| 23/11| Week 10 | Zak     |                                          |         |
 | 30/11| Week 11 |         |                                          |         |
 | 7/11  | Week 12 | TFB         |                                          |         |
