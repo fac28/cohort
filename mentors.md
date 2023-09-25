@@ -1,4 +1,4 @@
-# Mentors for FAC${cohort-number}
+# Mentors for FAC28
 
 A summary of all the indispensable volunteers offering support to the cohort! 😍
 
