@@ -22,3 +22,53 @@
 - week1-microblogging-fac28
   - here you could do an early return
     - https://github.com/cazanelena/week1-microblogging-fac28/blob/0c66d71187985127f078b6bfdba820e38c7ac5c5/src/server.js#L34-L41
+      
+## Week 2 - Database
+- general
+    - show how to do object destructuring
+    - this function could do with some refactoring
+        - [https://github.com/fac28/DoggyDB/blob/bb0325420ca8094aa2173235a7bc0ec04d1190a9/routes/booking.js#L4-L39](https://github.com/fac28/DoggyDB/blob/bb0325420ca8094aa2173235a7bc0ec04d1190a9/routes/booking.js#L4-L39)
+    - you don't want to call a function from the model inside the template file
+    - it looks like some teams focused a lot on database, that's definitely okay. I could show how to test the database in isolation (db-issy-tess-tommaso-james)
+    - is prettier working for people? I didn't see a config file for it
+    - add 'no-console' to rules
+- DoggyDB
+    - you put `npm start` in instructions but it should be `npm run dev`
+    - you could use object destructuring here
+        - [https://github.com/fac28/DoggyDB/blob/bb0325420ca8094aa2173235a7bc0ec04d1190a9/routes/bookingForm.js#L15-L19](https://github.com/fac28/DoggyDB/blob/bb0325420ca8094aa2173235a7bc0ec04d1190a9/routes/bookingForm.js#L15-L19)
+    - if you only use a variable once then you most of the time you don't need to create a variable
+        - [https://github.com/fac28/DoggyDB/blob/bb0325420ca8094aa2173235a7bc0ec04d1190a9/routes/bookingForm.js#L20-L25](https://github.com/fac28/DoggyDB/blob/bb0325420ca8094aa2173235a7bc0ec04d1190a9/routes/bookingForm.js#L20-L25)
+    - I wouldn't recommend using `+=` as it's confusing to read
+        - you could just put the `content` inside the template string at the same time you're reassigning it
+    - values already filled in for making a booking, is it meant to work like that?
+    - there are no instructions for seeding the project
+    - there are console.log's left in
+    - sorting mechanism for bookings is cool 😎
+    - I like that you used capital letters for templates 👌🏽
+    - great splitting out routes into their own files
+- natureBase
+    - you don't want to call a function from the model inside the template file
+        - [https://github.com/fac28/natureBase/blob/f2903a1389ce41eb665ebb67d7243fdc9dc5efdd/src/templates.js#L99-L132](https://github.com/fac28/natureBase/blob/f2903a1389ce41eb665ebb67d7243fdc9dc5efdd/src/templates.js#L99-L132)
+    - if a variable is only used in one place then you probably don't need it
+        - [https://github.com/fac28/natureBase/blob/f2903a1389ce41eb665ebb67d7243fdc9dc5efdd/src/routes/add.js#L9-L10](https://github.com/fac28/natureBase/blob/f2903a1389ce41eb665ebb67d7243fdc9dc5efdd/src/routes/add.js#L9-L10)
+    - you could use an early return here
+        - [https://github.com/fac28/natureBase/blob/f2903a1389ce41eb665ebb67d7243fdc9dc5efdd/src/routes/add.js#L37-L43](https://github.com/fac28/natureBase/blob/f2903a1389ce41eb665ebb67d7243fdc9dc5efdd/src/routes/add.js#L37-L43)
+    - I'm not 100% sure here but I think you should be importing the `app` from. `server.js` and then adding doing `const router = app.Router()`
+        - [https://github.com/fac28/natureBase/blob/f2903a1389ce41eb665ebb67d7243fdc9dc5efdd/src/routes/add.js#L1-L4](https://github.com/fac28/natureBase/blob/f2903a1389ce41eb665ebb67d7243fdc9dc5efdd/src/routes/add.js#L1-L4)
+    - form goes all the way to the bottom when there's an error submitting
+    - very cool that values remain even after server-side validation
+    - great modularisation of routes
+    - no eslint config or prettier config
+- db-issy-tess-tommaso-james
+    - you could use object destructuring here
+        - [https://github.com/fac28/db-issy-tess-tommaso-james/blob/ed2bd472d4bec7668578e1e4a6e1009c5eac5e7b/src/server.js#L24-L28](https://github.com/fac28/db-issy-tess-tommaso-james/blob/ed2bd472d4bec7668578e1e4a6e1009c5eac5e7b/src/server.js#L24-L28)
+    - you could have an early return here rather than this `else` block
+        - [https://github.com/fac28/db-issy-tess-tommaso-james/blob/ed2bd472d4bec7668578e1e4a6e1009c5eac5e7b/src/server.js#L49-L64](https://github.com/fac28/db-issy-tess-tommaso-james/blob/ed2bd472d4bec7668578e1e4a6e1009c5eac5e7b/src/server.js#L49-L64)
+    - when I press submit on the form all the values are wiped if one isn't working, a stretch goal could be to keep the values already entered in there
+    - how come the cuisine name has to be unique? surely multiple types of restaurants could have the same type of cuisine
+    - you don't have eslint or prettier
+    - there are console.log's left in
+        - [https://github.com/fac28/db-issy-tess-tommaso-james/blob/ed2bd472d4bec7668578e1e4a6e1009c5eac5e7b/src/server.js#L29](https://github.com/fac28/db-issy-tess-tommaso-james/blob/ed2bd472d4bec7668578e1e4a6e1009c5eac5e7b/src/server.js#L29)
+    - there aren't any instructions for seeding the database
+    - the instructions for running the database aren't the right ones for dev/local environment (it should be `npm run dev`)
+    - cool use of `normalize.css`
