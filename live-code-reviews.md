@@ -72,3 +72,57 @@
     - there aren't any instructions for seeding the database
     - the instructions for running the database aren't the right ones for dev/local environment (it should be `npm run dev`)
     - cool use of `normalize.css`
+
+## Week 3 - Authentication
+- PactPortal
+		- you might wanna abstract out a createCookie function so you can have cleaner route and put constant values in one place. (or even just abstract out the cookie options)
+			- https://github.com/fac28/PactPortal/blob/901e8b8c05e6d3e1cefe8721f3afaca08262a81e/src/routes/sign-up.js#L30-L35
+			- https://github.com/fac28/PactPortal/blob/901e8b8c05e6d3e1cefe8721f3afaca08262a81e/src/routes/log-in.js#L34-L39
+		- how come you used `cross-env`?
+		- i could show them how to make 'protected-route' middleware
+		- i liked how your template and route folder have a similar structure
+		- how come you're passing `req` and `res` to both these functions if those arguments aren't being used?
+			- https://github.com/fac28/PactPortal/blob/901e8b8c05e6d3e1cefe8721f3afaca08262a81e/src/templates/home.js#L4-L41
+		- how are you getting the logs in the console?
+		- you can use early return here
+			- https://github.com/fac28/PactPortal/blob/901e8b8c05e6d3e1cefe8721f3afaca08262a81e/src/routes/sign-up.js#L23-L44
+		- do we want to see how to install husky?
+		- in your error handling you could reply with something to the user
+			- https://github.com/fac28/PactPortal/blob/901e8b8c05e6d3e1cefe8721f3afaca08262a81e/src/routes/log-in.js#L34-L39
+			- show them how to mock errors in the code by just throwing
+		- just a matter of stylistic preference but you could combine these two lines into one
+			- https://github.com/fac28/PactPortal/blob/901e8b8c05e6d3e1cefe8721f3afaca08262a81e/src/routes/user.js#L15-L16
+	- bookmarks2
+		- there's similar logic in these two routes, you could abstract it out into middleware
+			- https://github.com/fac28/bookmarks2/blob/0e4b53cd8cf3e307f799087156e83c886680ec5d/src/routes/bookpage.js#L1-L46
+		- to run locally you do `npm run dev` in your project. if i used `npm start` the env variables wouldn't be set
+			- https://github.com/fac28/bookmarks2/blob/0e4b53cd8cf3e307f799087156e83c886680ec5d/README.md?plain=1#L29-L37
+		- no eslint or prettier config
+		- love how tidy your server file is 😍
+		- console.log's left in
+		- you don't need an else block here because you've already got an early return
+			- https://github.com/fac28/bookmarks2/blob/0e4b53cd8cf3e307f799087156e83c886680ec5d/src/routes/log-in.js#L17-L36
+		- how come you use the login routes for `/log-in` endpoint but also for `/my-shelf` endpoints
+			- it's a bit confusing that some routes are getting set multiple times
+		- `createBook` should probably run with `run` rather than `get` as you're not using the book that's returned
+		- love both these early returns on the 'failure' path
+			- https://github.com/fac28/bookmarks2/blob/0e4b53cd8cf3e307f799087156e83c886680ec5d/src/routes/bookpage.js#L10-L44
+	- play-dates
+		- to run locally you do `npm run dev` in your project. if i used `npm start` the env variables wouldn't be set
+			- https://github.com/fac28/play-dates/blob/73ed1d513efa40118e8a7a9ce22ced9fdf668058/README.md?plain=1#L36-L38
+		- still quite a few console logs left in
+		- this isn't doing anything, there is no rule called `prettier/prettier` as far as I know. maybe a confusion between prettier and eslint here
+		- love how tidy the server is 😍
+		- how come you assign `currentMonth` and then only use it to assign to `month` variable. can't you just call it `month` to start with? (same with year two lines above actually)
+			- https://github.com/fac28/play-dates/blob/73ed1d513efa40118e8a7a9ce22ced9fdf668058/src/routes/home.js#L14-L15
+		- these lines could come up at the top of the route for greater readability
+		  id:: 651dffab-2b1d-476c-9d12-771d767d4fe1
+			- https://github.com/fac28/play-dates/blob/73ed1d513efa40118e8a7a9ce22ced9fdf668058/src/routes/home.js#L17-L21
+		- I can go to `/form` without being signed in (show how to do protected routes)
+		  id:: 651e0022-6c30-455e-9175-407439c3e7a7
+			- also form-route.js is not the best naming. it should be more specific to whatever the app is doing (`events.js`)
+			- https://github.com/fac28/play-dates/blob/73ed1d513efa40118e8a7a9ce22ced9fdf668058/src/routes/form-route.js#L15-L28
+		- similar to above, you can tidy code up by checking for active session straight away and returning early if there isn't one
+		  id:: 651e01e0-09ce-43f1-89f7-d299042e611f
+			- https://github.com/fac28/play-dates/blob/73ed1d513efa40118e8a7a9ce22ced9fdf668058/src/routes/month.js#L10-L28
+		
