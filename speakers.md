@@ -6,7 +6,7 @@
 |12/10 |  Week 4 | Taha    |  ?                              |         |
 |19/10 |  Week 5 | Anni    |   Introduction to Web Science                                       |         |
 |26/10 |  Week 6 | Tony    | TypeScript                               | [Slides](https://hackmd.io/@Xab5z2SfSu-ajcPEAuCmRw/rJLDJI2fs), [Code Example](https://github.com/tonylomax/fac-ts-talk)        |
-| 2/11 |  Week 7 |         |                                          |         |
+| 2/11 |  Week 7 | Pablo   |   DevOps                                 |         |
 | 9/11 |  Week 8 |         |                                          |         |
 | 16/11|  Week 9 | John    | Unconfirmed (react/ databases/ first job/ progressing)          |         |
 | 23/11| Week 10 | Zak     | Unconfirmed (python)                      |         |
