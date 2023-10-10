@@ -14,15 +14,15 @@ Mentors will ask questions, listen carefully, and document what students share. 
 
 | Week                      | Day       | Time  | Learner   | 
 | ------------------------- | --------- | ----- | --------- |
-| 4 - Server-side app       | Wednesday | 12:30 | Nich      |
+| 4 - Server-side app       | Wednesday | 11:00 | Nich      |
 | 4 - Server-side app week  | Wednesday | 14:30 | Dylan     |
-| 5 - Client-side app week  | Wednesday | 12:00 | George    |
-| 5 - Client-side app week  | Wednesday | 12:30 | Isobel    |
+| 5 - Client-side app week  | Wednesday | 11:00 | George    |
+| 5 - Client-side app week  | Wednesday | 11:00 | Isobel    |
 | 6 - Full-stack app week   | Wednesday | 14:00 | James     |
 | 6 - Full-stack app week   | Wednesday | 14:30 | Laurie    |
 | 7 - Design Sprint app week| Wednesday | 11:00 | Elena     |
-| 7 - Design Sprint week    | Wednesday | 11:30 | Yuqing    |
-| 8 - Build Sprint 1 week 2 | Wednesday | 11:30 | Shaughn   |
-| 8 - Build Sprint 1 week 2 | Wednesday | 12:00 | Deepa     |
+| 7 - Design Sprint week    | Wednesday | 11:00 | Yuqing    |
+| 8 - Build Sprint 1 week 2 | Wednesday | 11:00 | Shaughn   |
+| 8 - Build Sprint 1 week 2 | Wednesday | 11:00 | Deepa     |
 | 9 - Build Sprint 2 week 2 | Wednesday | 16:00 | Tommaso   |
 | 9 - Build Sprint 2 week 2 | Wednesday | 16:30 | Tess      |
