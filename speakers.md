@@ -11,4 +11,4 @@
 | 16/11|  Week 9 | John    | Unconfirmed (react/ databases/ first job/ progressing)          |         |
 | 23/11| Week 10 | Zak     | Unconfirmed (python)                      |         |
 | 30/11| Week 11 | Sonia   | Web Accessibility                         |         |
-| 7/11  | Week 12 | TFB         |                                          |         |
+| 7/11  | Week 12 | TFB    |     Tech For Better Showcase              |         |
