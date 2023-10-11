@@ -15,13 +15,13 @@ A summary of all the indispensable volunteers offering support to the cohort! ðŸ
 ## In-house Project mentors
 | Team | Mentor |
 | ---- | ------ |
-| TBC  | Martha Nolan    |
+| TBC  | TBC    |
 | TBC  | TBC    |
 | TBC  | TBC    |
 
 ## Tech For Better Project mentors
 | Team | Mentor |
 | ---- | ------ |
-| TBC  | TBC    |
+| TBC  | Martha Nolan    |
 | TBC  | TBC    |
 | TBC  | TBC    |
