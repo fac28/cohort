@@ -9,6 +9,6 @@
 | 2/11 |  Week 7 | Pablo   |   DevOps                                 |         |
 | 9/11 |  Week 8 | Jon     | Making Money out of your Side Projects   |         |
 | 16/11|  Week 9 | John    | Unconfirmed (react/ databases/ first job/ progressing)          |         |
-| 23/11| Week 10 | Zak     | Unconfirmed (python)                      |         |
+| 23/11| Week 10 | Vatsal     |                       |         |
 | 30/11| Week 11 | Sonia   | Web Accessibility                         |         |
 | 7/11  | Week 12 | TFB    |     Tech For Better Showcase              |         |
