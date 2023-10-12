@@ -125,4 +125,129 @@
 		- similar to above, you can tidy code up by checking for active session straight away and returning early if there isn't one
 		  id:: 651e01e0-09ce-43f1-89f7-d299042e611f
 			- https://github.com/fac28/play-dates/blob/73ed1d513efa40118e8a7a9ce22ced9fdf668058/src/routes/month.js#L10-L28
-		
+## Week 4
+- ### TechYEScracy
+- Be weary of redundant lines of code and unnecessary logic
+```javascript
+	router.post("/vote", (req, res) => {
+	const user = req.signedCookies ? req.signdCookies.user : false;
+	// user is never used 
+	// that line could also have been: 
+	// const user = req.signedCookies && req.%% signedCokies %%.user
+
+	
+	const {poll_id,vote_type} = req.query;
+	updatePoll(poll_id, vote_type , 1);
+	return res.redirect("../")
+
+});
+```
+Here's a good chance for a ternary statement:
+```javascript
+function getPollList(expired) {
+if (expired) return select_all_expiredPolls.all();
+return select_all_activePolls.all();
+
+// expired ? select_all_expiredPolls.all() : select_all_activePolls.all()
+}
+```
+- Your testing library is a nice set up. Pretty easy to read and the suite you created is fairly comprehensive - barring maybe the description of the actual suite:
+```javascript
+test("test test", () => { // changing just this would make your logs clearer
+assert.equal(1, "1", "Expected 1 to be equal to '1'");
+});
+
+test("can create a new user", () => {
+reset();
+
+const before = count("users");
+createUser("Egg", 20);
+
+const after = count("users");
+assert.equal(
+	before,
+	after - 1,
+	"Expected the count of users before to be one less than after creating a new user"
+);
+
+});
+```
+- Version control
+	- this repo employs a dev-branch but as a consequence the main branch is actually behind by a few features (even though the dev-branch version is stable) - probably a good idea to review workflows
+### Comic-unity
+- Consider naming best-practices
+	- for example, drawImage() suggests that the function would allow you to draw an image but it's actually returning an HTML template
+- Clean up!!
+	- If code is commented out by the time you are ready to push then it needs to be removed
+```javascript
+		// function layout({ title, content }) {
+// return /*html*/ `
+// <!doctype html>
+// <html lang="en">
+// <head>
+// <meta charset="UTF-8">
+// <meta name="viewport" content="width=device-width, initial-scale=1.0">
+// <link rel="stylesheet" href="normalize.css">
+// <link rel="stylesheet" href="styles.css">
+// <title>${title}</title>
+// </head>
+// <body>
+// ${content}
+// </div>
+// </body>
+// </html>
+// `;
+// }
+
+  
+
+// module.exports = layout;
+```
+- Here's a nifty change that would have made your code more iterable:
+```javascript
+const colours = ['black', 'white', 'red', 'orange', 'yellow']
+
+<div class="color-controls">
+	colours.map(colour => return {`
+		<button id='${colour}-button' class='color-button'></button>
+	`})
+```
+that would get rid of this wall of code:
+```javascript
+<div class="color-controls">
+	<button id='black-button' class="color-button"></button>
+	<button id='white-button' class="color-button white"></button>
+	<button id='red-button' class="color-button red"></button>
+	<button id='orange-button' class="color-button orange"></button>
+	<button id='yellow-button' class="color-button yellow"></button>
+	<button id='green-button' class="color-button green"></button>
+	<button id='blue-button' class="color-button blue"></button>
+	<button id='purple-button' class="color-button purple"></button>
+</div>
+```
+and it would allow you to expand the palette available in future by adjusting a simple array.
+### ai-art-gallery
+- I like your README.md
+	- clear and detailed - maybe make it a little more visual (e.g. database schema)
+- Nice one, using the github secrets to make your variables available without exposing them
+- just a quick props on this here:
+```javascript
+// in routes/gallery.js
+router.get("/", async (req, res) => {
+
+	try {
+		const artworkDetails = await selectWork();
+		const ids = artworkDetails.map(image => image.id);
+		const artworkWithImages = await Promise.all(ids.map(async id => {
+		const imageDetails = await displayWorks(id);
+
+		return {
+		...artworkDetails.find(artwork => artwork.id === id),
+		image_file: imageDetails.image_file,
+		};
+	}));
+
+return res.send(layout(artworkWithImages));
+}
+```
+	- Using the spread operator here is really slick and your logic is akin to what you'll need when you start managing states soon
