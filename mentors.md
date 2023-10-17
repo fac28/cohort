@@ -15,7 +15,7 @@ A summary of all the indispensable volunteers offering support to the cohort! ðŸ
 ## In-house Project mentors
 | Team | Mentor |
 | ---- | ------ |
-| TBC  | TBC    |
+| TBC  | Jack Heriz-Smith   |
 | TBC  | TBC    |
 | TBC  | TBC    |
 
