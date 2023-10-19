@@ -251,3 +251,60 @@ return res.send(layout(artworkWithImages));
 }
 ```
 	- Using the spread operator here is really slick and your logic is akin to what you'll need when you start managing states soon
+## Week 5
+### Week5-James_Deepa
+- how come you're wrapping these functions within other functions? seems uneccessary (in general it feels like there's too much going on in this component body)
+- https://github.com/fac28/Week5-James_Deepa/blob/26152dd0dfae6bddf0e22d9e5e90346081b9613c/src/App.jsx#L32-L43
+- move this conditional to be in the parent component rather than in the child component
+- https://github.com/fac28/Week5-James_Deepa/blob/26152dd0dfae6bddf0e22d9e5e90346081b9613c/src/components/Gameover.jsx#L4
+- https://github.com/fac28/Week5-James_Deepa/blob/26152dd0dfae6bddf0e22d9e5e90346081b9613c/src/components/Win.jsx#L4
+- all the files in helpers should probably have `js` extension, and they shouldn't be capitalised (only files that export components should be capitalised)
+- it might be better to have a separate hooks directory for hooks
+- keytracking should be called `useKeyTracking` as it's a custom hook
+### PetProgrammer
+- in react, dom properties should be camelCased
+- https://github.com/fac28/PetProgrammer/blob/ee7f30426312c1f8c9581606c910c1cbb76d2fe2/src/components/CreateName.jsx#L12
+- App.css file name should probably be all lowercase
+- this function is a component and should live outside the parent component body
+- https://github.com/fac28/PetProgrammer/blob/ee7f30426312c1f8c9581606c910c1cbb76d2fe2/src/App.jsx#L31-L51
+- making a prop object like this is not recommended, all properties should be individually spread into objects that need them
+- https://github.com/fac28/PetProgrammer/blob/ee7f30426312c1f8c9581606c910c1cbb76d2fe2/src/App.jsx#L26-L29
+- you don't need a react fragment here
+- https://github.com/fac28/PetProgrammer/blob/ee7f30426312c1f8c9581606c910c1cbb76d2fe2/src/components/Apply.jsx#L21-L25
+- this function should have camelCase naming, using uppercase for the first letter is reserved for react components
+- https://github.com/fac28/PetProgrammer/blob/ee7f30426312c1f8c9581606c910c1cbb76d2fe2/src/components/Coding.jsx#L12
+- why is there a dispatch abstracted away to `isMad`? it seems unnecessary
+- https://github.com/fac28/PetProgrammer/blob/ee7f30426312c1f8c9581606c910c1cbb76d2fe2/src/components/Coffee.jsx#L10
+### elena-tess-w5
+- all your files are inside the subdirectory `myapp` and this could mess around with vscode extension and other things. your readme and package.json should generally live in the top level
+- you have two eslint config files, you should get rid of one of them
+- you don't have prettier set up
+- using a lot of ternary operators within in the markup makes the code confusing to read, I would consider refactoring this
+- https://github.com/fac28/elena-tess-w5/blob/e15af0ea3f255d5f9248f496e997a75876687af5/myapp/src/components/TriviaApp.jsx#L59-L106
+- the reset button has a onClick handler called `incrementCount`, it should probably have a better name
+- https://github.com/fac28/elena-tess-w5/blob/e15af0ea3f255d5f9248f496e997a75876687af5/myapp/src/components/TriviaApp.jsx#L101
+- i'm pretty sure nowadays you don't need react
+- https://github.com/fac28/elena-tess-w5/blob/e15af0ea3f255d5f9248f496e997a75876687af5/myapp/src/components/QuestionNavigation.jsx#L1
+
+### react-minesweeper-dylan-george
+- lots of variables defined but not used [here](https://github.com/fac28/react-minesweeper-dylan-george/blob/bddd49e738d2bee0a6ab6a99acf07233414f4786/src/components/Modal.jsx#L1-L28)
+- no instructions for how to run the project in readme
+- you have a few [gameState states](https://github.com/fac28/react-minesweeper-dylan-george/blob/bddd49e738d2bee0a6ab6a99acf07233414f4786/src/App.jsx#L9), they should live in constants so that you reduce the chance of making mistakes and so you can easily know what all the possible states are
+- there's no need for a react fragment [here](https://github.com/fac28/react-minesweeper-dylan-george/blob/bddd49e738d2bee0a6ab6a99acf07233414f4786/src/components/Board.jsx#L6-L22)
+- good candidate for a [switch statement](https://github.com/fac28/react-minesweeper-dylan-george/blob/bddd49e738d2bee0a6ab6a99acf07233414f4786/src/components/Cell.jsx#L21-L30) (but more of stylistic preference rather than anything else)
+- you have both and index.css and an App.css and one of them is empty
+### sound-control
+- because your state is quite complex, i would consider using `useReducer` rather than `useState`
+- [`compareArrays`](https://github.com/fac28/sound-control/blob/26843bb9928af90864ffc656a738e227fec64755/src/utils/compareArrays.js#L2-L15) could have better naming, you're checking for equality rather than just comparing so something along those lines
+- [nested ifs](https://github.com/fac28/sound-control/blob/26843bb9928af90864ffc656a738e227fec64755/src/components/Pad.jsx#L16-L29) and else could look cleaner by employing early return
+- play button and reset button are the same, do they need to be separate components?
+- do they even need to be abstracted out from App.jsx?
+- [here](https://github.com/fac28/sound-control/blob/26843bb9928af90864ffc656a738e227fec64755/src/App.jsx#L35-L42) you can use && instead of using ternary operator
+### battleship
+- no instructions for how to run app in readme
+- eslint not set up properly
+- lots of console.logs left in
+- the surrounding div [here](https://github.com/fac28/battleship/blob/05e5ee6fba69f5bd148c5e468eb17e5e648467ec/src/components/Game.jsx#L33-L38) could just be a fragment
+- [this](https://github.com/fac28/battleship/blob/05e5ee6fba69f5bd148c5e468eb17e5e648467ec/src/components/ComputerBoard.jsx#L35-L41) should live in a `useEffect`, (come and ask me if it doesn't make sense why)
+- is there any advantage to abstracting [this button](https://github.com/fac28/battleship/blob/05e5ee6fba69f5bd148c5e468eb17e5e648467ec/src/components/PlaceShipsButton.jsx#L1-L8) to a different file?
+- there's an empty `index.js` file which you should remove from the codebase
