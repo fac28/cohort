@@ -16,7 +16,7 @@ A summary of all the indispensable volunteers offering support to the cohort! ðŸ
 | Team | Mentor |
 | ---- | ------ |
 | TBC  | Jack Heriz-Smith   |
-| TBC  | TBC    |
+| TBC  | Dan G  |
 | TBC  | TBC    |
 
 ## Tech For Better Project mentors
