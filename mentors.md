@@ -15,9 +15,9 @@ A summary of all the indispensable volunteers offering support to the cohort! ðŸ
 ## In-house Project mentors
 | Team | Mentor |
 | ---- | ------ |
-| James, Tess, Dylan, Nich  | Jack Heriz-Smith   |
-| Issy, Laurie, George, Deepa  | Dan G  |
-| Elena, Tommaso, Yuqing, Shaughn  | Tony Lomax   |
+| Elena, Yuqing, Shaughn, James  | Jack Heriz-Smith   |
+| Tess, Laurie, Nich, Issy  | Dan G  |
+| Dylan, George, Tommaso, Deepa  | Tony Lomax   |
 
 ## Tech For Better Project mentors
 | Team | Mentor |
