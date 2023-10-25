@@ -15,9 +15,9 @@ A summary of all the indispensable volunteers offering support to the cohort! ðŸ
 ## In-house Project mentors
 | Team | Mentor |
 | ---- | ------ |
-| TBC  | Jack Heriz-Smith   |
-| TBC  | Dan G  |
-| TBC  | TBC    |
+| James, Tess, Dylan, Nich  | Jack Heriz-Smith   |
+| Issy, Laurie, George, Deepa  | Dan G  |
+| Elena, Tommaso, Yuqing, Shaughn  | Tony Lomax   |
 
 ## Tech For Better Project mentors
 | Team | Mentor |
