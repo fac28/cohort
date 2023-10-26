@@ -9,4 +9,4 @@
 | 5     | Client-side      | Izzy, Tommaso                   | Laurie, Nich                  | Elena, Tess                   | Dylan, George    | Shaughn, Yuqing
 | 6     | Full-stack       | James, Shaughn, Deepa, Izzy     | Elena, Tess, Yuqing, Laurie  | Dylan, George, Tommaso, Nich  |                  |
 | 7-9   | In-house Project | Dylan, George, Tommaso, Deepa   | Elena, Yuqing, Shaughn, James  | Tess, Laurie, Nich, Izzy     |                  |
-| 10-12 | TfB Project      | Elena, Tommaso, Yuqing, Shaughn | James, Tess, Dylan, Nich    | Izzy, Laurie, George, Deepa     |                  |
+| 10-12 | TfB Project      | Elena, Tommaso, Nich, Shaughn | James, Tess, Dylan, Yuqing    | Issy, Laurie, George, Deepa     |                  |
