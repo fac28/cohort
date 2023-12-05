@@ -10,5 +10,5 @@
 | 9/11 |  Week 8 | Pablo |  Serverless Architecture and AWS     |         |
 | 16/11|  Week 9 | John    | Unconfirmed (react/ databases/ first job/ making progress at work)          |         |
 | 23/11| Week 10 | Vatsal     |                       |         |
-| 30/11| Week 11 | Sonia   | Web Accessibility                         |         |
+| 30/11| Week 11 | Sonia   | Web Accessibility                         | [Slides](https://docs.google.com/presentation/d/1SgtApw8l1wuZZDngAqLLxLfWJQ4AMAhaJo5C0Y0Vxq4/edit?usp=sharing)        |
 | 7/11  | Week 12 | TFB    |     Tech For Better Showcase              |         |
